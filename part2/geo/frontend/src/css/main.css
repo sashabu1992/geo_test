@@ -1,0 +1,50 @@
+.map-container {
+  height: 400px;
+  width: 100%;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  margin-bottom: 20px;
+}
+
+.random-section, .api-section {
+  padding: 20px;
+  border: 1px solid #eee;
+  border-radius: 5px;
+  margin-bottom: 30px;
+}
+
+.api-section {
+  background-color: #f9f9f9;
+}
+
+.card {
+  margin-bottom: 20px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.object-row {
+  cursor: pointer;
+}
+
+.object-row:hover {
+  background-color: #f8f9fa;
+}
+
+#save-to-db {
+  margin-top: 10px;
+}
+
+/* Добавляем стили для элементов пагинации */
+.pagination-info {
+  font-size: 14px;
+  color: #666;
+  margin-top: 10px;
+}
+
+.search-container {
+  margin-bottom: 15px;
+}
+
+.btn-group {
+  margin-left: 10px;
+}
