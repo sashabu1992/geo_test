@@ -1,2 +1,2 @@
-# geo_test
-geo_test
+# GEO  
+результат второго задания выложен  на http://help.kual.ru/
